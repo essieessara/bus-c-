@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1449690863 source:c:\users\royall\desktop\pr\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<fstream>
+	<conio.h>
+
+1449691644 source:c:\users\royall\desktop\c projects\bus\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1449691644 source:c:\users\royall\desktop\c projects\mix\bus\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
